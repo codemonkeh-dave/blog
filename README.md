@@ -21,7 +21,10 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
 
 
 ## Articles
-### May 2020
+{% for post in site.posts %}
+## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+{% endfor %}
+
 ## [How to backup docker container volumes using Powershell Core ](articles/how-to-backup-docker-container-volumes-using-powershell-core.md)
 Learn how to `loop through directories` in powershell and `create a tar file` for easy backup of key data - in this case docker volumes.
 
@@ -37,14 +40,6 @@ Learn how to `loop through directories` in powershell and `create a tar file` fo
 - [Useful Websites](lists/useful-websites.md)
 
 - [Favourite Tools](lists/favourite-tools.md)
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 ## My Social Links
 
