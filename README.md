@@ -41,7 +41,7 @@ Learn how to `loop through directories` in powershell and `create a tar file` fo
 
 - [Useful Websites](lists/useful-websites.md)
 
-- [Favourite Tools]()
+- [Favourite Tools](lists/favourite-tools.md)
 
 
 
