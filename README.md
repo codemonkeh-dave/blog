@@ -6,19 +6,18 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
 
 ## Current Interests
 
-* Programming/Development
-    * Technologies
-       * C#
-       * MSSQL
-       * Docker
-       * Powershell
-       * Blazor
-    * Microsoft Azure
-        * Web Apps
-        * SQL Databases
-    * Game Development 
-        * Unity
-        * Construct 3
+* Technologies
+    * C#
+    * MSSQL
+    * Docker
+    * Powershell
+    * Blazor
+* Microsoft Azure
+    * Web Apps
+    * SQL Databases
+* Game Development 
+    * Unity
+    * Construct 3
 
 
 ## Articles
@@ -28,10 +27,6 @@ Learn how to `loop through directories` in powershell and `create a tar file` fo
 
 ![powershell](https://img.shields.io/badge/powershell-core-blue?logo=powershell)
 ![powershell](https://img.shields.io/badge/docker-ce-blue?logo=docker)
-
-
-
-
 
 ## My Lists
 

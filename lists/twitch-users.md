@@ -17,3 +17,8 @@ Unity Tool Developer
 
 ## rwsrob
 Professional Mentoring • Linux Terminal [Vim,TMUX,Lynx] • Hacking • Live Coding [Bash,Go,Web,C] [Twitch Stream](https://www.twitch.tv/rwxrob)
+
+
+---
+
+:information_source: Check out other great live coders on the LiveCoders website [https://livecoders.dev](https://livecoders.dev/members)
