@@ -37,13 +37,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
 
 
+## Interests
 
-### My Lists
+* Programming / Development
+    * Game Development using programs like `Unity` and most recently `Construct3` 
 
--  [Twitch users that I follow (mostly developers)]()
--  [My `Visual Studio Code` plugins]()
 
-### My Social Links
+## My Lists
 
-[![twitter](https://img.shields.io/badge/Twitter-codemonkeh--dave-green?logo=twitter)](http://twitter.com/codemonkeh_dave)
+-  [Twitch users that I follow (mostly developers)](lists/twitch-users.md)
+
+-  [My Visual Studio Code plugins](lists/vs-code-plugins.md)
+
+- [Useful Websites](lists/useful-websites.md)
+
+
+
+
+
+## My Social Links
+
+[![twitter](https://img.shields.io/badge/Twitter-codemonkeh--dave-blue?logo=twitter)](http://twitter.com/codemonkeh_dave)
 [![github](https://img.shields.io/badge/Github-codemonkeh--dave-blue?logo=github)](https://github.com/codemonkeh-dave)
