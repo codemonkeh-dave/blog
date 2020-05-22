@@ -1,3 +1,11 @@
+---
+layout: default
+comments: true
+category: code
+tags: [ios]
+summary: Learn how to `loop through directories` in powershell and `create a tar file` for easy backup of key data - in this case docker volumes.
+---
+
 ## Backup each directory into a Tar file
 
 1. Login to the docker vm and elevate to root
