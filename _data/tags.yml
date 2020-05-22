@@ -1,0 +1,29 @@
+- slug: ios
+  name: ios
+
+- slug: productivity
+  name: productivity
+
+- slug: javascript
+  name: javascript
+
+- slug: java
+  name: java
+
+- slug: android
+  name: android
+
+- slug: web
+  name: web
+
+- slug: objective-c
+  name: objective-c
+
+- slug: python
+  name: python
+
+- slug: android_studio
+  name: android_studio
+
+- slug: xcode
+  name: xcode
