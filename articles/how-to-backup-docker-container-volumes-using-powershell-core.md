@@ -40,7 +40,6 @@ $directories | ForEach-Object { tar -cvzf "$($_.name).tgz" "$($_.name)" }
 ```bash
 pwsh
 ```
-> If you don't have powershell core installed, see [Installing Powershell Core on Linux](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7)
 
 3. Open docker volumes directory
 
