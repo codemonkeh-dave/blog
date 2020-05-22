@@ -35,7 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
+## About me
 
+![profile-image](images/profile-image.jpeg)
+
+I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Technologies` who enjoys learning new and interesting Technologies.
 
 ## Current Main Interests
 
