@@ -38,7 +38,13 @@ Learn how to `loop through directories` in powershell and `create a tar file` fo
 
 - [Favourite Tools](lists/favourite-tools.md)
 
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## My Social Links
 
