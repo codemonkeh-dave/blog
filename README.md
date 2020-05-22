@@ -58,8 +58,10 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
         * Construct 3
 
 ## Articles
-    * 22-05-2020 - [How to backup docker container volumes using powershell core]()
-
+- [22-05-2020] - [How to backup docker container volumes using powershell core](articles/how-to-backup-docker-container-volumes-using-powershell-core.md)<p>
+![powershell](https://img.shields.io/badge/powershell-core-blue?logo=powershell)
+![powershell](https://img.shields.io/badge/docker-ce-blue?logo=docker)
+</p>
 ## My Lists
 
 -  [Twitch users that I follow (mostly developers)](lists/twitch-users.md)
