@@ -4,3 +4,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
