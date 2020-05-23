@@ -30,4 +30,8 @@
 
 - slug: docker
   name: docker
-  title: hello world
+  shield: ![docker](https://img.shields.io/badge/docker-ce-blue?logo=docker)
+
+- slug: powershell
+  name: powershell
+  shield: ![powershell](https://img.shields.io/badge/powershell-core-blue?logo=powershell)
