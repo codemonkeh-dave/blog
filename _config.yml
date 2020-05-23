@@ -1,14 +1,4 @@
 theme: jekyll-theme-hacker
-gems:
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
-plugins:
-  - jekyll-sitemap
-  - jekyll-redirect-from
-kramdown:
-  input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
-  extensions: fenced_code_blocks
