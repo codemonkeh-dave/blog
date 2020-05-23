@@ -23,6 +23,7 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
 ## Articles
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+{{ post.summary }}
 {% endfor %}
 
 ## My Lists
