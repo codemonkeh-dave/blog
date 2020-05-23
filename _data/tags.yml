@@ -30,10 +30,8 @@
 
 - slug: docker
   name: docker
-  shield: ![docker](https://img.shields.io/badge/docker-ce-blue?logo=docker)
   title: https://img.shields.io/badge/docker-ce-blue?logo=docker
 
 - slug: powershell
   name: powershell
-  shield: ![powershell](https://img.shields.io/badge/powershell-core-blue?logo=powershell)
   title: https://img.shields.io/badge/powershell-core-blue?logo=powershell
