@@ -25,12 +25,6 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
 ## [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
-## [How to backup docker container volumes using Powershell Core ](articles/how-to-backup-docker-container-volumes-using-powershell-core.md)
-Learn how to `loop through directories` in powershell and `create a tar file` for easy backup of key data - in this case docker volumes.
-
-![powershell](https://img.shields.io/badge/powershell-core-blue?logo=powershell)
-![powershell](https://img.shields.io/badge/docker-ce-blue?logo=docker)
-
 ## My Lists
 
 -  [Twitch users that I follow (mostly developers)](lists/twitch-users.md)
