@@ -37,37 +37,38 @@
 1. Login to the docker vm and elevate to root
 2. Launch Powershell Core
 
-```bash
-pwsh
-```
+    ```bash
+    pwsh
+    ```
 
 3. Open docker volumes directory
 
-```bash
-cd /var/lib/docker/volumes/
-```
+    ```bash
+    cd /var/lib/docker/volumes/
+    ```
+
 4. Copy/Move your backups (.tgz) files into the directory you want to restore them to.
 
-```bash
-cp \temp\*.tgz /var/lib/docker/volumes/
-#note: replace \temp with the directory your backups are located in
-```
+    ```bash
+    cp \temp\*.tgz /var/lib/docker/volumes/
+    #note: replace \temp with the directory your backups are located in
+    ```
 
 5. Uncompress each file into their original directory
 
-```bash
-# store list of .tgz files in a variable
-$files = Get-ChildItem -File -Filter *.tgz
+    ```bash
+    # store list of .tgz files in a variable
+    $files = Get-ChildItem -File -Filter *.tgz
 
-# list commands to be run
-$files | ForEach-Object { echo "tar -zxvf $($_.name)" }
+    # list commands to be run
+    $files | ForEach-Object { echo "tar -zxvf $($_.name)" }
 
-# run commands listed above
-$files | ForEach-Object { tar -zxvf "$($_.name)" }
-```
+    # run commands listed above
+    $files | ForEach-Object { tar -zxvf "$($_.name)" }
+    ```
 
 6. Remove backups (IF NO LONGER NEEDED)
 
-```bash
-rm *.tgz
-```
+    ```bash
+    rm *.tgz
+    ```
