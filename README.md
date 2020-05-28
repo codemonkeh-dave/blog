@@ -12,8 +12,15 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
     * Docker
     * Powershell
     * Blazor
+    
 * Microsoft Azure
-    * Web Apps | Azure Functions (Durable Functions + Durable Entities) | SQL Databases | IOT Hub | Application Insights | CDN | Virtual Machines
+    * Web Apps
+    * Azure Functions (Durable Functions + Durable Entities) 
+    * SQL Databases
+    * IOT Hub 
+    * Application Insights 
+    * CDN 
+    * Virtual Machines
     
 * Game Development 
     * Unity
