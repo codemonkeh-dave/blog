@@ -6,4 +6,4 @@
 
 # Plugins
 
-*[Redgate SQL Prompt](https://www.red-gate.com/products/sql-development/sql-prompt/) - Intelisense and command generation for SQL Management Studio
+* [Redgate SQL Prompt](https://www.red-gate.com/products/sql-development/sql-prompt/) - Intelisense and command generation for SQL Management Studio
