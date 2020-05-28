@@ -10,21 +10,22 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
     * C#
     * MSSQL
     * Docker
-    * Powershell
+    * Powershell Core (Because it's cross-platform 🚀)
     * Blazor
+    * Angular
     
 * Microsoft Azure
     * Web Apps
-    * Azure Functions (Durable Functions + Durable Entities) 
-    * SQL Databases
-    * IOT Hub 
+    * Azure Functions + Durable Functions & Durable Entities
+    * SQL Azure
+    * IOT Hub
     * Application Insights 
     * CDN 
     * Virtual Machines
     
 * Game Development 
     * Unity
-    * Construct 3
+    * [Construct 3](http://construct.net/)
 
 
 ## Articles
