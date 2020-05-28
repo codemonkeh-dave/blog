@@ -13,8 +13,8 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
     * Powershell
     * Blazor
 * Microsoft Azure
-    * Web Apps
-    * SQL Databases
+    * Web Apps | Azure Functions (Durable Functions + Durable Entities) | SQL Databases | IOT Hub | Application Insights | CDN | Virtual Machines
+    
 * Game Development 
     * Unity
     * Construct 3
@@ -30,7 +30,7 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
 
 -  [Twitch users that I follow (mostly developers)](lists/twitch-users.md)
 
--  [My Visual Studio Code plugins](lists/vs-code-plugins.md)
+- [My Visual Studio Code plugins](lists/vs-code-plugins.md)
 
 - [Useful Websites](lists/useful-websites.md)
 
