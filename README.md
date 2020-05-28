@@ -34,7 +34,7 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
 
 - [Useful Websites](lists/useful-websites.md)
 
-- [Favourite Tools](lists/favourite-tools.md)
+- [Useful Tools](lists/useful-tools.md)
 
 ## My Social Links
 

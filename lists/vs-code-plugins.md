@@ -1,8 +1,14 @@
 # Visual Studio Code Plugins
 
-* REST Client - This is great for making curl web requests straight from VS Code ** Highly recommended **
-* Todo+ - Really simple and easy to use todo tracker with easy keyboard shortcuts and simple time tracking baked in.
-* Bracket Pair Colorizer 2 - It's a developer must have!!!
-* Azure Functions - Dev and Deploy Azure functions easily without leaving VSCode!
-* Docker - Manage your containers without commands (although I do prefer portainer - see my tools list)
-* Powershell
+* [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - This is great for making curl web requests straight from VS Code ** Highly recommended **
+* [Todo+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Really simple and easy to use todo tracker with easy keyboard shortcuts and simple time tracking baked in.
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - It's a developer must have!!!
+* [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions) - Dev and Deploy Azure functions easily without leaving VSCode!
+* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Manage your containers without commands (although I do prefer portainer - see my tools list)
+* [Powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+
+## Currently Evaluating
+
+* [VSCode Eval](https://marketplace.visualstudio.com/items?itemName=expixel.vscode-eval)
+
+> For other great plugins check out - [Adam Learns (Twitch Streamer) list of used plugins ](https://blog.bot.land/2018/09/visual-studio-code/)
