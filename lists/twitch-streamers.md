@@ -1,4 +1,4 @@
-# Twitch Users
+# Twitch Streamers
 
 ## csharpfritz 
 .Net/Blazor/C# Microsoft - founder of the Live Coders stream team 

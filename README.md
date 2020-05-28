@@ -28,9 +28,9 @@ I'm a `Manchester UK` based `Professional Developer` using mainly `Microsoft Tec
 
 ## My Lists
 
--  [Twitch users that I follow (mostly developers)](lists/twitch-users.md)
+-  [Twitch Streamers that I follow (mostly developers)](lists/twitch-streamers.md)
 
-- [My Visual Studio Code plugins](lists/vs-code-plugins.md)
+- [Visual Studio Code plugins](lists/vs-code-plugins.md)
 
 - [Useful Websites](lists/useful-websites.md)
 
