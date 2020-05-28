@@ -19,12 +19,12 @@ Using a docker container to convert your files, means you don't have to install 
 From the directory where your markdown file is, run the following command:
 
 ### Powershell
-``` bash
-docker run -v "$((pwd).Path):/data" pandoc/latex pandoc README.md --pdf-engine=xelatex -o example13.pdf
-```
+  ``` bash
+  docker run -v "$((pwd).Path):/data" pandoc/latex pandoc README.md --pdf-engine=xelatex -o example13.pdf
+  ```
 
 ### Bash *un-tested syntax
-``` bash
-docker run -v "`pwd`":/data pandoc/latex pandoc README.md --pdf-engine=xelatex -o example13.pdf
-```
+  ``` bash
+  docker run -v "`pwd`":/data pandoc/latex pandoc README.md --pdf-engine=xelatex -o example13.pdf
+  ```
 
