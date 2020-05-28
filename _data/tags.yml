@@ -27,3 +27,11 @@
 
 - slug: xcode
   name: xcode
+
+- slug: docker
+  name: docker
+  title: bb
+
+- slug: powershell
+  name: powershell
+  title: aa
