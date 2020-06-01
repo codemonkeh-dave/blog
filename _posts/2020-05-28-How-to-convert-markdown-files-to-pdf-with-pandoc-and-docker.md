@@ -6,10 +6,6 @@ tags: [docker,powershell,linux,windows]
 summary: Learn how to convert a `Markdown` file to a PDF by using a single `Docker` command. No need to install any other software except Docker. This will work on both `Windows` and `Linux` and could easily work with GitHub actions.
 ---
 
-# How to convert Markdown to PDF with Pandoc and Docker
-
-Using a docker container to convert your files, means you don't have to install Pandoc or any other libraries.
-
 ## Requirements
 
 * Docker Desktop
