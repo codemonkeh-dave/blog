@@ -6,3 +6,4 @@
 
 ## Learning
 * [dev.to](https://dev.to/) - Developer blogs
+* [web.dev](https://web.dev/) - The future of Web Technologies
