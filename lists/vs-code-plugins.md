@@ -9,6 +9,6 @@
 
 ## Currently Evaluating
 
-* [VSCode Eval](https://marketplace.visualstudio.com/items?itemName=expixel.vscode-eval)
-
+* [VSCode Eval](https://marketplace.visualstudio.com/items?itemName=expixel.vscode-eval) - Evaluate multiple selections as javascript expressions and replace them with their values.
+* [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 > For other great plugins check out - [Adam Learns (Twitch Streamer) list of used plugins ](https://blog.bot.land/2018/09/visual-studio-code/)
